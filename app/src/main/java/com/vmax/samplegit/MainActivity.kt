@@ -10,8 +10,7 @@ class MainActivity : AppCompatActivity() {
         setContentView(R.layout.activity_main)
 
         Toast.makeText(this,"Hellow",Toast.LENGTH_LONG).show();
-        //Changes123456
-
-
+        //Changes12345678910
+        Toast.makeText(this,"Hello world",Toast.LENGTH_LONG).show();
     }
 }
