@@ -24,4 +24,9 @@ public class ExampleUnitTest {
     public void subtraction_isCorrect() {
         assertEquals(20, 40 - 20);
     }
+
+    @Test
+    public void division_isCorrect() {
+        assertEquals(20, 400 / 20);
+    }
 }
