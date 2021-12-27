@@ -32,6 +32,6 @@ public class ExampleUnitTest {
 
     @Test
     public void test_assert() {
-        assertEquals(40, 40);
+        assertEquals(60, 60);
     }
 }
