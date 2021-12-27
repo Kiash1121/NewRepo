@@ -29,4 +29,9 @@ public class ExampleUnitTest {
     public void division_isCorrect() {
         assertEquals(20, 400 / 20);
     }
+
+    @Test
+    public void test_assert() {
+        assertEquals(40, 40);
+    }
 }
