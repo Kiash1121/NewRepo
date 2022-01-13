@@ -12,5 +12,7 @@ class MainActivity : Activity() {
         Toast.makeText(this,"Hellow",Toast.LENGTH_LONG).show();
         //Changes12345678910
         Toast.makeText(this,"Hello world",Toast.LENGTH_LONG).show();
+
+        val count = 10;
     }
 }
