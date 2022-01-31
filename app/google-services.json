@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "329816448831",
+    "project_id": "jenkinsproject-14b63",
+    "storage_bucket": "jenkinsproject-14b63.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:329816448831:android:794033c6147ed598a73d8a",
+        "android_client_info": {
+          "package_name": "com.vmax.samplegit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "329816448831-t4d4uvv750v4da7shqb8r50kf63dnp77.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBFt647UIUfVSsxTdOOR2vWTJwjQOzGUrc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "329816448831-t4d4uvv750v4da7shqb8r50kf63dnp77.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
